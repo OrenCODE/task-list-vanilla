@@ -1,0 +1,32 @@
+body {
+    background-image: url('assests/979.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.header-brown {
+    color: brown;
+    font-weight: 900;
+}
+
+.header {
+    font-weight: 900;
+}
+
+#todos-form {
+    margin: auto;
+    padding-top: 17px;
+    width: 600px;
+    /*background-image: url('assests/formbg.jpg');*/
+}
+
+.note-bg {
+    float: left;
+    background-image: url('assests/notebg.png');
+    height: 250px;
+    width: 200px;
+    margin: 20px;
+    padding: 27px 12px;
+    animation: fadein 2s;
+}
